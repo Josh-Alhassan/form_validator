@@ -1,7 +1,7 @@
 # form_validator
 Validating a form page
 
-##Tech Stack
+## Tech Stack
 - HTML
 - CSS
 - JavaScript
